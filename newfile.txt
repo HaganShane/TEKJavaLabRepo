@@ -1,0 +1,2 @@
+This is a new text document assisting the Git Activity Lab for the TEK Java Cohert on November 15th 2022!
+
